@@ -13,3 +13,7 @@ the total number of grains on the chessboard
 
 
 <img width="888" alt="Capture d’écran 2023-06-15 à 19 47 19" src="https://github.com/NigeParis/grains/assets/128382762/b302bc53-e579-4eff-b661-c8eff58bcbf7">
+
+#Screen shot resultat
+
+<img width="597" alt="ecran scr_shot_grains" src="https://github.com/NigeParis/grains/assets/128382762/8b72ac94-9e65-40aa-9e81-88a04799b698">
