@@ -13,7 +13,9 @@ how many grains were on a given square, and
 the total number of grains on the chessboard
 
 
-<img width="888" alt="Capture d’écran 2023-06-15 à 19 47 19" src="https://github.com/NigeParis/grains/assets/128382762/b302bc53-e579-4eff-b661-c8eff58bcbf7">
+![Capture d’écran 2023-06-15 à 19 47 19](https://github.com/NigeParis/grains/assets/128382762/88799df4-7c64-4813-b4c2-6f4193ebc2c5)
+
+
 
 #Screen shot resultat
 
